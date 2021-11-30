@@ -1,0 +1,41 @@
+[
+    {
+        "BlockNumber": 1,
+        "Timestamp": 1637857445131,
+        "Drugs": [],
+        "Proof": 1,
+        "previousBatchBlockHash": "0"
+    },
+    {
+        "BlockNumber": 2,
+        "Timestamp": 1637857445558,
+        "Drugs": [
+            {
+                "drugcode": 299,
+                "serial": "SWDS7W68Q7S66"
+            },
+            {
+                "drugcode": 299,
+                "serial": "SWDS7W68Q7S66"
+            },
+            {
+                "drugcode": 299,
+                "serial": "SWDS7W68Q7S66"
+            },
+            {
+                "drugcode": 299,
+                "serial": "SWDS7W68Q7S66"
+            },
+            {
+                "drugcode": 299,
+                "serial": "SWDS7W68Q7S66"
+            },
+            {
+                "drugcode": 299,
+                "serial": "SWDS7W68Q7S66"
+            }
+        ],
+        "Proof": 71203,
+        "previousBatchBlockHash": "2b86adf1236b83bfbe21853ffcf998bcfe74a1428163f838c39dcdb96acf9992"
+    }
+]
